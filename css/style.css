@@ -13,12 +13,12 @@ body {
 }
 
 header {
-  margin-bottom: 50px;
+  margin-bottom: 70px;
 }
 
 @media screen and (min-width: 1024px) {
   header {
-    margin-bottom: 40px;
+    margin-bottom: 70px;
   }
 }
 
@@ -122,7 +122,7 @@ h1 {
   margin-top: 26px;
   background: #ffffff;
   position: relative;
-  line-height: 1.5;
+  line-height: 1;
   color: #674bb1;
   display: inline-block;
   border-radius: 30px;
