@@ -41,7 +41,7 @@ body {
   padding: 40px;
   background-color: #674bb1;
   color: #fff;
-  background-image: url("/images/bg-mobile.svg");
+  background-image: url("../images/bg-mobile.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -52,7 +52,7 @@ body {
 @media screen and (min-width: 1024px) {
   body {
     margin-bottom: 26px;
-    background-image: url("/images/bg-desktop.svg");
+    background-image: url("../images/bg-desktop.svg");
     padding: 60px 80px 40px 80px;
   }
 }
